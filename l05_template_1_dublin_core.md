@@ -10,7 +10,7 @@ Lesson 05 slides -> [https://github.com/laurentfintoni/dh-ravenna-26-27/tree/mai
 
 **Standard:** Dublin Core, 15 elementi, per descrivere qualsiasi risorsa. [DCMI Metadata Terms](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/).
 
-**Source:** link:https:[//www.nga.gov/artworks/106382-self-portrait]
+**Source:** [NGA](//www.nga.gov/artworks/106382-self-portrait)
 
 Ogni elemento può essere ripetuto (valori multipli) o lasciato vuoto. 
 
@@ -33,7 +33,7 @@ Ogni elemento può essere ripetuto (valori multipli) o lasciato vuoto.
 | `publisher` | An entity responsible for making the resource available. | National Gallery of Art Chicago |
 | `contributor` | An entity responsible for making contributions to the resource. | Collection of Mr. and Mrs. John Hay Whitney |
 | `format` | The file format, physical medium, or dimensions of the resource. | oil on canvas; 57.79 × 44.5 cm (22 3/4 × 17 1/2 in.) |
-| `source` | A related resource from which the described resource is derived. | [https://www.nga.gov/artworks/106382-self-portrait] |
+| `source` | A related resource from which the described resource is derived. | [source](https://www.nga.gov/artworks/106382-self-portrait) |
 | `language` | A language of the resource. | EN |
 | `relation` | A related resource. | Portrait de l'artiste, Musée d'Orsay |
 | `coverage` | The spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant. | 1853 - 1890 |
