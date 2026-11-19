@@ -1,12 +1,4 @@
-# Lesson 05 template 1: Dublin Core
-
-Lesson 05 slides -> [https://github.com/laurentfintoni/dh-ravenna-26-27/tree/main/lessons/05](https://github.com/laurentfintoni/dh-ravenna-26-27/tree/main/lessons/05)
-
-1. Scegli una fonte -> trova un elemento che ti interessa.
-2. Apri questo template (testo o Markdown).
-3. Compila i sei elementi fondamentali: `title`, `creator`, `date`, `type`, `subject`, `identifier`.
-4. Se hai tempo, prova i nove elementi facoltativi.
-5. Prendi nota di ciò che volevi registrare ma per cui non c'era un elemento corrispondente, e di quali elementi non ti erano chiari.
+# Exercise 1 19/11
 
 **Standard:** Dublin Core, 15 elementi, per descrivere qualsiasi risorsa. [DCMI Metadata Terms](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/).
 
@@ -43,3 +35,7 @@ Ogni elemento può essere ripetuto (valori multipli) o lasciato vuoto.
 
 - Cosa volevi annotare che non contenesse alcun elemento?
 - Quali elementi non erano chiari o potevano dare luogo a due risposte diverse?
+
+- ## Exercise 2
+- ### Folksonomy
+- TAGS: #VanGogh #Impressionism #Art #Paintings #VincentVanGogh #Arthistory
