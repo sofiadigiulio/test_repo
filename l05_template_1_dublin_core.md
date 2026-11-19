@@ -10,7 +10,7 @@ Lesson 05 slides -> [https://github.com/laurentfintoni/dh-ravenna-26-27/tree/mai
 
 **Standard:** Dublin Core, 15 elementi, per descrivere qualsiasi risorsa. [DCMI Metadata Terms](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/).
 
-**Example source:** la _nascita di Venere_, Catalogo generale dei beni culturali, record 0900158551, open-data version (https://w3id.org/arco/resource/HistoricOrArtisticProperty/0900158551).
+**Source:** link:https:[//www.nga.gov/artworks/106382-self-portrait]
 
 Ogni elemento può essere ripetuto (valori multipli) o lasciato vuoto. 
 
@@ -18,34 +18,28 @@ Ogni elemento può essere ripetuto (valori multipli) o lasciato vuoto.
 
 | Element | Definition |  Your object |
 |---|---|---|
-| `title` | A name given to the resource. | ? |
-| `creator` | An entity responsible for making the resource. | ? |
-| `date` | A point or period of time associated with an event in the lifecycle of the resource. | ? |
-| `type` | The nature or genre of the resource. | ? |
-| `subject` | A topic of the resource. | ? |
-| `identifier` | An unambiguous reference to the resource within a given context. | ? |
+| `title` | A name given to the resource. | Self-Portrait |
+| `creator` | An entity responsible for making the resource. | Vincent Van Gogh |
+| `date` | A point or period of time associated with an event in the lifecycle of the resource. | 1889 |
+| `type` | The nature or genre of the resource. | painting |
+| `subject` | A topic of the resource. | self-portraits; impressionism |
+| `identifier` | An unambiguous reference to the resource within a given context. | 1998.74.5 (Accession Number); Q9162658 (WikiData ID) |
 
 ### Optional core elements
 
 | Element | Definition | Your object |
 |---|---|---|
-| `description` | An account of the resource. | ? |
-| `publisher` | An entity responsible for making the resource available. | ? |
-| `contributor` | An entity responsible for making contributions to the resource. | ? |
-| `format` | The file format, physical medium, or dimensions of the resource. | ? |
-| `source` | A related resource from which the described resource is derived. | ? |
-| `language` | A language of the resource. | ? |
-| `relation` | A related resource. | ? |
-| `coverage` | The spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant. | ? |
-| `rights` | Information about rights held in and over the resource. | ? |
+| `description` | An account of the resource. | Vincent van Gogh painted 36 self-portraits. This was one of his last. Made at the asylum of Saint-Paul-de-Mausole in Saint-Rémy, where the artist was recovering from a severe breakdown, it is intense in every way. The swirling brushstrokes around his head are dynamic, the blues and violets of his smock are electric, and his narrowed gaze is unwavering. The artist’s bright orange hair and rust-colored beard accentuate his sallow skin and add to his gaunt appearance. Still working despite his illness, Van Gogh keeps a tight grip on his brushes and palette. |
+| `publisher` | An entity responsible for making the resource available. | National Gallery of Art Chicago |
+| `contributor` | An entity responsible for making contributions to the resource. | Collection of Mr. and Mrs. John Hay Whitney |
+| `format` | The file format, physical medium, or dimensions of the resource. | oil on canvas; 57.79 × 44.5 cm (22 3/4 × 17 1/2 in.) |
+| `source` | A related resource from which the described resource is derived. | [https://www.nga.gov/artworks/106382-self-portrait] |
+| `language` | A language of the resource. | EN |
+| `relation` | A related resource. | Portrait de l'artiste, Musée d'Orsay |
+| `coverage` | The spatial or temporal topic of the resource, spatial applicability of the resource, or jurisdiction under which the resource is relevant. | 1853 - 1890 |
+| `rights` | Information about rights held in and over the resource. | Public Domain |
 
 ### Dopo averlo compilato
 
 - Cosa volevi annotare che non contenesse alcun elemento?
 - Quali elementi non erano chiari o potevano dare luogo a due risposte diverse?
-
-### GenAI disclosure
-
-This template was generated with Claude Code (Fable 5.2) and manually reviewed and modified. DC elements extracted from the ArCO record for _nascita di Venere_. Definitions manually copied from the DCMI document. 
-
-
