@@ -1,7 +1,3 @@
-#### Am I going Insane 
-## I am supposed to know this 
-**how hard** can it be
-
 ### example
 
 | field | definition | DC equivalent | required? | value rule | example |
